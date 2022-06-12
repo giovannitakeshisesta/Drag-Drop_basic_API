@@ -6,8 +6,6 @@ const logger =  require('morgan')
 const express = require('express')
 const cors = require('cors')
 
-//prueba
-
 
 require('./config/db.config')
 

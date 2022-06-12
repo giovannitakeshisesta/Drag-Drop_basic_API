@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./app.js",
-    "dev": "DEBUG=onlyhacks:* nodemon ./app.js"
+    "dev": "DEBUG=dnd_example_api:* nodemon ./app.js"
   },
   "keywords": [],
   "author": "",
